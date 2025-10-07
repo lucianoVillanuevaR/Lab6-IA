@@ -1,9 +1,6 @@
 # Laboratorio IA – 6 de Octubre 2025
 
 **Universidad del Bío-Bío – Ingeniería de Ejecución en Computación e Informática**  
-**Profesor:** Luis Cabrera-Crot  
-**Alumno:** Luciano Villanueva  
-
 ---
 
 ## 🧠 Enunciado
