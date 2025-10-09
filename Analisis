@@ -1,0 +1,6 @@
+
+En una grilla con costo unitario y movimientos en 4 direcciones, la heurística euclidiana es admisible y consistente,
+por lo que A* garantiza caminos óptimos (mínimos pasos). En nuestras pruebas, A* suele expandir más nodos que Best First,
+pero entrega rutas iguales o más cortas y evita retrocesos. Best First, al guiarse solo por h, a veces llega más rápido en mapas abiertos,
+aunque no asegura optimalidad y puede quedar atrapado por obstáculos. Conclusión: si el objetivo es calidad de ruta y robustez,
+A* presenta mejores resultados; si se prioriza tiempo aproximado en instancias simples, Best First puede rendir mejor.
